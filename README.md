@@ -125,6 +125,7 @@ To install, run:
 
 ```bash
 npm install UniversalConverterJS
+```
 
 ## Usage
 
